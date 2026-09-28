@@ -5,7 +5,7 @@ Scrape public Indeed job listings by keyword and location: title, company, locat
 **Run it on Apify:** [apify.com/themineworks/indeed-scraper](https://apify.com/themineworks/indeed-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/indeed-scraper](https://themineworks.com/actors/indeed-scraper/)
 
-**Price:** $4.80 per 1,000 jobs on Apify's free plan, down to $3.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $3.00 per 1,000 jobs on Apify's higher plans ($4.80 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
